@@ -6,6 +6,7 @@ For any questions, suggestions or typos, feel free to reach out to me at [hugo.s
 
 ## Contents
 
+* [OOD, generalization and compositionality](#ood)
 * [Continual learning](#continual-learning)
 * [Training dynamics and optimization](#training-dynamics-and-optimization)
 * [Transformers and attention mechanisms](#transformers-and-attention-mechanisms)
@@ -16,12 +17,24 @@ For any questions, suggestions or typos, feel free to reach out to me at [hugo.s
 * [Music Generation](#music-generation)
 * [Reinforcement learning](#reinforcement-learning)
 * [Neural AI](#neural-ai)
+* [Computer Vision](#computer-vision)
+* [3D, Point Clouds and Meshes](#3d)
 * [Biology](#biology)
 * [Physics](#physics)
 
 
 
+## OOD, generalization and compositionality
+[Back to Top](#contents)
+
+* [A Unified Survey on Anomaly, Novelty, Open-Set, and Out-of-Distribution Detection: Solutions and Future Challenges](https://arxiv.org/abs/2110.14051v1) (*Mohammadreza Salehi et al*, **October 2021**)
+* [A Survey of Generalisation in Deep Reinforcement Learning](https://arxiv.org/abs/2111.09794) (*Robert Kirk et al*, **November 2021**)
+
+
+
+
 ## Continual learning
+[Back to Top](#contents)
 
 * [A curated, up-to-date list of scaling law papers](https://sites.google.com/site/irinarish/scaling-laws) (cc. Prof. *Irina Rish*)
 * [A curated, up-to-date list of OoD generalization papers](https://sites.google.com/site/irinarish/ood_generalization) (cc. Prof. *Irina Rish*)
@@ -30,9 +43,12 @@ For any questions, suggestions or typos, feel free to reach out to me at [hugo.s
 
 
 ## Training dynamics and Optimization
+[Back to Top](#contents)
 
 * [Evolution strategies](https://lilianweng.github.io/lil-log/2019/09/05/evolution-strategies.html) (*Lilian Weng*'s blog, **September 2019**)
 * [A survey of optimization methods from a machine learning perspective](https://arxiv.org/abs/1906.06821) (*Sun et al*, **October 2019**)
+* [A Review of Uncertainty Quantification in Deep Learning: Techniques, Applications and Challenges](https://arxiv.org/abs/2011.06225v3) (*Mouloud Abdar et al*, **November 2020**)
+
 
 
 
@@ -79,6 +95,7 @@ For any questions, suggestions or typos, feel free to reach out to me at [hugo.s
 * [Controllable neural text generation](https://lilianweng.github.io/lil-log/2021/01/02/controllable-neural-text-generation.html) (*Lilian Weng*'s blog, **January 2021**)
 * [Emergent Multi-Agent Communication in the Deep Learning Era](https://arxiv.org/abs/2006.02419) (*Lazaridou et al*, **June 2020**)
 * [Which BERT : a survey organizing contextualized encoders](https://arxiv.org/abs/2010.00854) (*Xia et al*, **October 2020**)
+* [Recent Advances in Natural Language Processing via Large Pre-Trained Language Models: A Survey](https://arxiv.org/abs/2111.01243) (*Bonan Min et al*, **November 2021**)
 
 
 ## Music Generation
@@ -96,6 +113,7 @@ For any questions, suggestions or typos, feel free to reach out to me at [hugo.s
 * [Multi-agent Deep Reinforcement Learning : a survey](https://link.springer.com/article/10.1007/s10462-021-09996-w) (*Gronauer et al*, **April 2021**)
 * [Exploration strategies in Deep Reinforcement Learning](https://lilianweng.github.io/lil-log/2020/06/07/exploration-strategies-in-deep-reinforcement-learning.html) (*Lilian Weng*'s blog, **June 2020**)
 * [Curriculum for Reinforcement Learning](https://lilianweng.github.io/lil-log/2020/01/29/curriculum-for-reinforcement-learning.html) (*Lilian Weng*'s blog, **January 2020**)
+* [Sim-to-Real Transfer in Deep Reinforcement Learning for Robotics: a Survey](https://arxiv.org/abs/2009.13303) (*Wenshuai Zhao et al*, **September 2020**)
 
 
 
@@ -106,10 +124,29 @@ Empty ...
 
 
 
+## Computer Vision
+[Back to Top](#contents)
+
+* [Advances in adversarial attacks and defenses in computer vision: A survey](https://arxiv.org/abs/2108.00401) (*Naveed Akhtar et al*, **August 2021**)
+* [Attention Mechanisms in Computer Vision: A Survey](https://arxiv.org/abs/2111.07624v1) (*Meng-Hao Guo et al*, **November 2021**)
+* [Advances in Neural Rendering](https://arxiv.org/abs/2111.05849v1) (*Ayush Tewari et al*, **November 2021**)
+* [Are we ready for a new paradigm shift? A Survey on Visual Deep MLP](https://arxiv.org/abs/2111.04060v3) (*Ruiyang Liu et al*, **November 2021**)
+* [A Survey of Visual Transformers](https://arxiv.org/abs/2111.06091) (*Yang Liu et al*, **November 2021**)
+
+
+
+## 3D, Point Clouds and Meshes
+[Back to Top](#contents)
+
+* [Deep Learning for 3D Point Clouds: A Survey](https://arxiv.org/abs/1912.12033) (*Yulan Guo et al*, **December 2019**)
+
+
+
+
 ## Biology
 [Back to Top](#contents)
 
-Empty ...
+* [Medical Visual Question Answering : a survey](https://arxiv.org/abs/2111.10056) (*Zhihong Lin et al*, **November 2021**)
 
 
 
