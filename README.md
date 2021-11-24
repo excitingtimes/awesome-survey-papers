@@ -78,6 +78,8 @@ For any questions, suggestions or typos, feel free to reach out to me at [hugo.s
 ## Generative modelling
 [Back to Top](#contents)
 
+* [Generative adversarial networks in time series: A survey and taxonomy](https://arxiv.com/abs/2107.11098) (*Brophy et al*, **July 2021**)
+
 * [Diffusion models](https://lilianweng.github.io/lil-log/2021/07/11/diffusion-models.html) (*Lilian Weng*'s blog, **July 2021**)
 
 
