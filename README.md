@@ -6,21 +6,23 @@ For any questions, suggestions or typos, feel free to reach out to me at [hugo.s
 
 ## Contents
 
-* [OOD, generalization and compositionality](#ood)
-* [Continual learning](#continual-learning)
-* [Training dynamics and optimization](#training-dynamics-and-optimization)
-* [Transformers and attention mechanisms](#transformers-and-attention-mechanisms)
-* [Graph neural networks](#graph-neural-networks)
-* [Generative modelling](#generative-modelling)
-* [Self-supervised learning](#self-supervised-learning)
-* [Natural Language Processing](#natural-language-processing)
-* [Music Generation](#music-generation)
-* [Reinforcement learning](#reinforcement-learning)
-* [Neural AI](#neural-ai)
-* [Computer Vision](#computer-vision)
-* [3D, Point Clouds and Meshes](#3d)
-* [Biology](#biology)
-* [Physics](#physics)
+- [awesome-survey-papers](#awesome-survey-papers)
+  - [Contents](#contents)
+  - [OOD, generalization and compositionality](#ood-generalization-and-compositionality)
+  - [Continual learning](#continual-learning)
+  - [Training dynamics and Optimization](#training-dynamics-and-optimization)
+  - [Efficient Transformers](#efficient-transformers)
+  - [Graph neural networks](#graph-neural-networks)
+  - [Generative modeling](#generative-modeling)
+  - [Self-supervised learning](#self-supervised-learning)
+  - [Natural Language Processing](#natural-language-processing)
+  - [Music Generation](#music-generation)
+  - [Reinforcement Learning](#reinforcement-learning)
+  - [Neural AI](#neural-ai)
+  - [Computer Vision](#computer-vision)
+  - [3D, Point Clouds and Meshes](#3d-point-clouds-and-meshes)
+  - [Biology](#biology)
+  - [Physics](#physics)
 
 
 
@@ -73,8 +75,10 @@ For any questions, suggestions or typos, feel free to reach out to me at [hugo.s
 
 
 
-## Generative modelling
+## Generative modeling
 [Back to Top](#contents)
+
+* [Generative adversarial networks in time series: A survey and taxonomy](https://arxiv.com/abs/2107.11098) (*Brophy et al*, **July 2021**)
 
 * [Diffusion models](https://lilianweng.github.io/lil-log/2021/07/11/diffusion-models.html) (*Lilian Weng*'s blog, **July 2021**)
 
@@ -159,3 +163,4 @@ For any questions, suggestions or typos, feel free to reach out to me at [hugo.s
 [Back to Top](#contents)
 
 * [Physics-based deep learning](https://arxiv.org/abs/2109.05237) (*Thuerey et al*, **September 2021**)
+* [Physics-Guided Deep Learning for Dynamical Systems: A Survey](https://arxiv.orghttps://arxiv.org/pdf/2107.01272.pdf) (*Wang et al*, **July 2021**)
