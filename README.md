@@ -13,7 +13,7 @@ For any questions, suggestions or typos, feel free to reach out to me at [hugo.s
   - [Training dynamics and Optimization](#training-dynamics-and-optimization)
   - [Efficient Transformers](#efficient-transformers)
   - [Graph neural networks](#graph-neural-networks)
-  - [Generative modelling](#generative-modelling)
+  - [Generative modeling](#generative-modeling)
   - [Self-supervised learning](#self-supervised-learning)
   - [Natural Language Processing](#natural-language-processing)
   - [Music Generation](#music-generation)
@@ -75,7 +75,7 @@ For any questions, suggestions or typos, feel free to reach out to me at [hugo.s
 
 
 
-## Generative modelling
+## Generative modeling
 [Back to Top](#contents)
 
 * [Generative adversarial networks in time series: A survey and taxonomy](https://arxiv.com/abs/2107.11098) (*Brophy et al*, **July 2021**)
