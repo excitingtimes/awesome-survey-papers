@@ -39,6 +39,7 @@ For any questions, suggestions or typos, feel free to reach out to me at [hugo.s
 * [A curated, up-to-date list of scaling law papers](https://sites.google.com/site/irinarish/scaling-laws) (cc. Prof. *Irina Rish*)
 * [A curated, up-to-date list of OoD generalization papers](https://sites.google.com/site/irinarish/ood_generalization) (cc. Prof. *Irina Rish*)
 * [A curated, up-to-date list of continual learning papers](https://sites.google.com/site/irinarish/continuallearning/resources) (cc. Prof. *Irina Rish*)
+* [Continual lifelong learning with neural networks : a review](https://www.sciencedirect.com/science/article/pii/S0893608019300231) (*German I. Parisi et al*, **May 2019**)
 
 
 
@@ -68,6 +69,7 @@ For any questions, suggestions or typos, feel free to reach out to me at [hugo.s
 
 * [Combinatorial optimization and reasoning with GNNs](https://arxiv.org/abs/2102.09544) (*Cappart et al*, **February 2021**)
 * [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges](https://arxiv.org/abs/2104.13478) (*Bronstein et al*, **April 2021**)
+* [Attention Models in Graphs: A Survey](https://dl.acm.org/doi/abs/10.1145/3363574) (*John Boaz Lee et al*, **November 2019**)
 
 
 
@@ -120,7 +122,10 @@ For any questions, suggestions or typos, feel free to reach out to me at [hugo.s
 ## Neural AI
 [Back to Top](#contents)
 
-Empty ...
+* [Neuroscience-Inspired Artificial Intelligence (Neuron Review)](https://www.cell.com/neuron/pdf/S0896-6273(17)30509-3.pdf) (*Demis Hassabis et al*, **July 2017**)
+* [An introduction to theories of learning](https://www.taylorfrancis.com/books/mono/10.4324/9781003014447/introduction-theories-learning-matthew-olson-julio-ramirez) (*Matthew H. Olson et al*, **February 2020**)
+* [Cognitive computational neuroscience : a review](https://www.nature.com/articles/s41593-018-0210-5) (*Nikolaus Kriegeskorte et al*, **August 2018**)
+* [Bridging Biological and Artificial Neural Networks with Emerging Neuromorphic Devices: Fundamentals, Progress, and Challenges](https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201902761) (*Jianshi Tang et al*, **September 2019**)
 
 
 
